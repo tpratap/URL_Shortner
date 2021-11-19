@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-entwu=w#s12miom#r8hzl2g*6_-x6=iyo$33@qwv9e0q@dmyff'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['https://create-short-link.herokuapp.com/','http://127.0.0.1:8000/']
 
