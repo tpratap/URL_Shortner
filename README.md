@@ -3,6 +3,9 @@
 This is web app  titled **[>URL_Shortner](https://hly.herokuapp.com/)**. A URL shortner is an online service that gives you a new, very short URL that is **easier to share**. It's not just useful with Twitter, but also with email, text messages, and any other situation where a long URL is unmanageable. 
 
 
+#### App link: https://hly.herokuapp.com/
+
+
 ## URL_Shortner 
 
 This URL Shortner app is basically built using **[Django](https://www.djangoproject.com/)** (is a Python-based free and open-source web framework that follows the model–template–views architectural pattern). In this app, we generate random keys and mantain a **key-value pair** (or hash) where key as duplicate url  and value as original url.  Anyone visiting on that duplicate url is redirected to the original url.
