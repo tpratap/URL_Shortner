@@ -8,7 +8,7 @@ This is web app  titled **[>URL_Shortner](https://hly.herokuapp.com/)**. A URL s
 
 ## URL_Shortner 
 
-This URL Shortner app is basically built using **[Django](https://www.djangoproject.com/)** (is a Python-based free and open-source web framework that follows the model–template–views architectural pattern). In this app, we generate random keys and mantain a **key-value pair** (or hash) where key as duplicate url  and value as original url.  Anyone visiting on that duplicate url is redirected to the original url.
+This URL Shortner app is basically built using **[Django](https://www.djangoproject.com/)** (is a Python-based free and open-source web framework that follows the model–template–views architectural pattern). In this app, we generate random keys and mantain a **key-value pair** (or hash) where key as duplicate url  and value as original url.  Anyone visiting on that duplicate url is redirected to the original url. It is basically made just for demonstartion, if you want to use it you just need to make small changes by increases maxlength from 3 to 6 or more. It generates 20 charcters long short url(without including https://).
 
 
 # Technology Stack
