@@ -8,6 +8,16 @@ This is web app  titled **[>URL_Shortner](https://hly.herokuapp.com/)**. A URL s
 This URL Shortner app is basically built using **[Django](https://www.djangoproject.com/)** (is a Python-based free and open-source web framework that follows the model–template–views architectural pattern). In this app, we generate random keys and mantain a **key-value pair** (or hash) where key as duplicate url  and value as original url.  Anyone visiting on that duplicate url is redirected to the original url.
 
 
+# Technology Stack
+
+ 1. Python (3.10.0)
+ 2. Django, (a python web framework)  (3.2.9)
+ 3. HTML5
+ 4. CSS3
+ 5. GIT and Github
+ 6. Heroku
+
+
 ##  Features 
 
 1.  Authentication
