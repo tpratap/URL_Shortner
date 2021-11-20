@@ -16,6 +16,7 @@ This URL Shortner app is basically built using **[Django](https://www.djangoproj
  4. CSS3
  5. GIT and Github
  6. Heroku
+ 7. SQLite3
 
 
 ##  Features 
