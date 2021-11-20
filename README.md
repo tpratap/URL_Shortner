@@ -73,3 +73,6 @@ URL shortners aren't just useful with Twitter. There are lots of situations wher
 -   **Resumes and cover letters**: Shortened URLs can look a bit neater.
 -   **Text messages**: Most text messages have a limit of 160 characters, making short URLs essential.
 -   **Phones**: If you need to tell someone to go to a specific webpage, a shortened URL can save time and trouble.
+
+
+#### It is open source software and free to use.
