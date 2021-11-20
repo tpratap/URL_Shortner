@@ -54,20 +54,16 @@ Basically, when the URL shortner gives you your shortened URL, it **remembers** 
 The webpage will still exist at the longer URL—the shortened URL is simply a  **shortcut**  to make the link easier to manage.
 
 ## Let's shorten a URL!
-Even if you've never shortened a URL, it's very easy. We're going to use >URL_Shortner, but the process will be similar when using other shortening services.
-The basic process is to copy the long URL into the URL shortner, and it will give you a shorter URL. The exact steps are below:
+Even if you've never shortened a URL, it's very easy. We're going to use [>URL_Shortner](https://hly.herokuapp.com/), but the process will be similar when using other shortening services.
+The basic process is to copy the long URL into the URL shortener, and it will give you a shorter URL. The exact steps are below:
 
- 1. Go to any website (you can use this link if you want). Websites with
-    longer URLs are the best candidates for URL shortening, although any
+ 1. Go to any website (you can use this [link](https://www.google.com/maps/place/Beasley's+Chicken+and+Honey/@35.777025,-78.638112,15z/data=!4m2!3m1!1s0x0:0x9ede9af11fda231a)  if you want). Websites with longer URLs are the best candidates for URL shortening, although any
     site will work.
-    
  2. Select the URL in the address bar and copy it. You can use the
     keyboard shortcut Ctrl+C  to copy it.
-   
- 3. Go to URL Shortner and signup, click on Dashboard paste the URL into
+ 3. Go to URL Shortner and [signup](https://hly.herokuapp.com/signup/), click on Dashboard paste the URL into
     the space provided, using the keyboard shortcut Ctrl+V to paste it.
-    
- 4. Click on Generate, shorten link will appear copy it and paste it in browser. 
+ 4. Click on **Generate**, shorten link will appear copy it and paste it in browser. 
 
 ##  So what can you do with a shortened URL?
 
