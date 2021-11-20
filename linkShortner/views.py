@@ -16,7 +16,7 @@ def dashboard(request):
 
 
 def randomgen():
-    return ''.join(random.choice(string.ascii_lowercase) for _ in range(6))
+    return ''.join(random.choice(string.ascii_lowercase) for _ in range(3))
 
 
 @login_required(login_url='/login/')
