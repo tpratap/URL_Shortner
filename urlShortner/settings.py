@@ -28,7 +28,7 @@ SECRET_KEY = config('secret_key')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://weely1.herokuapp.com/','http://127.0.0.1:8000/']
+ALLOWED_HOSTS = ['https://hly.herokuapp.com/','http://127.0.0.1:8000/']
 
 
 # Application definition
